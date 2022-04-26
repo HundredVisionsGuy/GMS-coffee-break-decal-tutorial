@@ -8,6 +8,7 @@
     {"id":{"name":"obj_par_decal","path":"objects/obj_par_decal/obj_par_decal.yy",},"order":22,},
     {"id":{"name":"spr_enemy_fragment","path":"sprites/spr_enemy_fragment/spr_enemy_fragment.yy",},"order":11,},
     {"id":{"name":"spr_enemy_splatter","path":"sprites/spr_enemy_splatter/spr_enemy_splatter.yy",},"order":13,},
+    {"id":{"name":"Effects","path":"scripts/Effects/Effects.yy",},"order":0,},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},"order":15,},
     {"id":{"name":"spr_tileset","path":"sprites/spr_tileset/spr_tileset.yy",},"order":17,},
     {"id":{"name":"spr_title","path":"sprites/spr_title/spr_title.yy",},"order":19,},
